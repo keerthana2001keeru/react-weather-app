@@ -30,8 +30,8 @@ Before you begin, ensure you have the following installed on your machine:
 
    git clone https://github.com/keerthana2001keeru/react-weather-app.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   Runs the app in the development mode.\
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 2. Run the development server:
 
